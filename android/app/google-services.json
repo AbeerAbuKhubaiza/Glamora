@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "646154791101",
+    "firebase_url": "https://glamoraapp-cc35f-default-rtdb.firebaseio.com",
+    "project_id": "glamoraapp-cc35f",
+    "storage_bucket": "glamoraapp-cc35f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646154791101:android:4780b238243b2eba756fd4",
+        "android_client_info": {
+          "package_name": "com.example.glamora_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsanBEeHBtVYK6_zTmNFIWfO_SzxRrBgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646154791101:android:4c17fe0465e2b722756fd4",
+        "android_client_info": {
+          "package_name": "com.yourcompany.glamora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsanBEeHBtVYK6_zTmNFIWfO_SzxRrBgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
